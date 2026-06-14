@@ -57,4 +57,7 @@ OBS sistemi belli aralıklarla veya başka bir cihazdan (telefondan vb.) giriş 
 ### Sesli Uyarı: 
 Not girildiğinde bilgisayarınızdan bir uyarı sesi gelir. Hoparlörünüzün açık olduğundan emin olun.
 
+### Not:
+Sınav sonrası hızlıca hazırladığım bir programdır, uzun vadeli geliştirme sağlamayı planlamıyorum, isteyen kişiler sormaksızın veya referans vermeksizin diledikleri gibi kullanabilirler, geliştirebilirler ve yayabilirler.
+
 **Geliştirici: Abdulkadir Ustaoğlu**
