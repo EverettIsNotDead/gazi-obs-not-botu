@@ -38,7 +38,7 @@ Scripti çalıştırmak için bilgisayarınızda **Python** kurulu olmalıdır.
 
 2. Program size notların kaç saniyede bir kontrol edileceğini soracak. (Tavsiye edilen: 60 saniye. Daha altı süreler OBS tarafından bot olarak algılanıp ban yemenize sebep olabilir).
 
-3. Süreyi girdikten sonra ekranda otomatik olarak bir tarayıcı açılır, bilgilerinizi girerek giriş sisteme yapın.
+3. Süreyi girdikten sonra ekranda otomatik olarak bir tarayıcı açılır, bilgilerinizi girerek sisteme giriş yapın.
 
 4. Yazılım gerekli değerleri okuyup tarayıcıyı kapatacak, tamamen arka planda çalışır.
 
